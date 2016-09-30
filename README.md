@@ -9,5 +9,5 @@
 
 
 
-![image](https://github.com/cshhs/ResponseTypeHomePage/blob/master/LNSliderView/LNSliderView/test.gif) 
+![image](https://github.com/cshhs/ResponseTypeHomePage/blob/master/bootstrap/test.gif) 
 
